@@ -1,0 +1,40 @@
+#### 系统忽略
+.DS_Store
+Thumbs.db
+
+#### 编辑器
+.idea/
+.settings/
+.project
+.sublime-gulp.cache
+*.swp
+tags
+GPATH
+GRTAGS
+GTAGS
+\#*\#
+ETAGS
+\#*\#
+.\#*
+
+#### php
+.env
+vendor/
+.php_cs.cache
+storage/api-docs
+.phpstorm.meta.php
+_ide_helper.php
+_ide_helper_models.php
+
+####js
+node_modules/
+public/revHtml/
+public/build/
+/gulpfile1.js
+/gulpfile.watch.js
+/gulpfile2.js
+npm-debug.log
+.history/
+/.vscode
+.session.vim
+.undodir
